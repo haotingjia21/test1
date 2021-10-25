@@ -80,14 +80,3 @@ for i in allorfs:
 
 
 
-
-
-
-
-
-
-#
-
-
-
-# starts with AUG and end with UAA, UAG or UGA, multiple of 3
